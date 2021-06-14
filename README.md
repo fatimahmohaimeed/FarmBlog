@@ -1,7 +1,13 @@
-
+# Farm  blog
 Here I have created a blog for a farm.. The admin posts farm news about what crops are there, when they open and close and what courses are available (planting courses, date selection courses, animal care courses, etc.
 
 he administrator sign up from this page ..
+
+
+
+
+
+
 <img width="1440" alt="2" src="https://user-images.githubusercontent.com/47718518/121967291-c7fdca00-cd78-11eb-8d13-c04d6ac352df.png">
 
 Then his profile appears..
