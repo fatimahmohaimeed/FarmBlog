@@ -1,7 +1,8 @@
 # Farm  blog
-Here I have created a blog for a farm.. The admin posts farm news about what crops are there, when they open and close and what courses are available (planting courses, date selection courses, animal care courses, etc.
+Here I have created a blog for a farm.. The admin posts news about the farm opening and closing, about crops, what courses are available (planting courses, animal care courses, etc.).
 
-he administrator sign up from this page ..
+
+The administrator signs up from this page ..
 
 
 
@@ -34,9 +35,10 @@ Then his profile appears..
 
 
 
-This page can publish news.
+He can post news from his profile.
 
 Then it will appear on the home page in the daily news section..
+
 
 
 
